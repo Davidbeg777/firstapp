@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dd1be5c.css",
+    "main.js": "/static/js/main.1c28c679.js",
+    "static/js/787.0edbcda9.chunk.js": "/static/js/787.0edbcda9.chunk.js",
+    "static/media/Phone_brain.png": "/static/media/Phone_brain.b0fb753f6dc378a6df20.png",
+    "static/media/Mainimage.png": "/static/media/Mainimage.0bc201a721bc143e0a32.png",
+    "static/media/Footer_image.png": "/static/media/Footer_image.856e0c9590962f5f3563.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.4dd1be5c.css.map": "/static/css/main.4dd1be5c.css.map",
+    "main.1c28c679.js.map": "/static/js/main.1c28c679.js.map",
+    "787.0edbcda9.chunk.js.map": "/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd1be5c.css",
+    "static/js/main.1c28c679.js"
+  ]
+}
