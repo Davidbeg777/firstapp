@@ -1,0 +1,440 @@
+.Footer_2 {
+	max-height: fit-content;
+	max-width: 1921px;
+}
+
+.Adress {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.Logo2 {
+	position: relative;
+	width: 45px;
+	height: 58.24px;
+	margin-left: 124px;
+	top: 10px;
+}
+
+.Adress_artificial {
+	top: 30px;
+	width: 158.63px;
+	height: 21.95px;
+	left: 124.42px;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 15.9627px;
+	line-height: 22px;
+	color: #3A68B8;
+	position: relative;
+}
+
+.Adress_text {
+	position: relative;
+	width: 261px;
+	height: 54px;
+	left: 123px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	top: 15px;
+}
+
+.message {
+	width: 13px;
+	height: 10.4px;
+	left: 123px;
+	position: relative;
+	top: 10px;
+}
+
+.Mail {
+	position: relative;
+	width: 261px;
+	height: 18px;
+	left: 145px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	top: 38px;
+}
+
+.Phone_img {
+	position: relative;
+	width: 12.98px;
+	height: 13px;
+	left: 123px;
+	top: 10px;
+}
+
+.Phone_number {
+	position: relative;
+	width: 261px;
+	height: 18px;
+	left: 146px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	top: 40px;
+}
+
+.Location_img {
+	position: relative;
+	width: 13px;
+	height: 15.89px;
+	left: 123px;
+	top: 10px;
+}
+
+.Location {
+	top: 40px;
+	position: relative;
+	width: 261px;
+	height: 18px;
+	left: 146px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	bottom: 8px;
+}
+
+.Information_block {
+	display: flex;
+	flex-direction: column;
+}
+
+.Information_text {
+	position: relative;
+	width: 164px;
+	height: 20px;
+	left: 450px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+	bottom: 343px;
+}
+
+.New_collection {
+	position: relative;
+	width: 164px;
+	height: 18px;
+	left: 450px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	bottom: 325px;
+}
+
+.About_store {
+	position: relative;
+	width: 164px;
+	height: 18px;
+	left: 450px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	bottom: 300px;
+}
+
+.Contact_us {
+	position: relative;
+	width: 164px;
+	height: 18px;
+	left: 450px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	bottom: 280px;
+}
+
+.Latest_News {
+	position: relative;
+	width: 164px;
+	height: 18px;
+	left: 450px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	bottom: 260px;
+}
+
+.Our_Sitemap {
+	position: relative;
+	width: 164px;
+	height: 18px;
+	left: 450px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	bottom: 240px;
+}
+
+.Orders_History {
+	position: relative;
+	width: 164px;
+	height: 18px;
+	left: 450px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	bottom: 220px;
+}
+
+.Footermenu_block {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	width: 165px;
+	height: 260px;
+	left: 611px;
+	bottom: 598px;
+}
+
+.FOOTER_MENU {
+	width: 165px;
+	height: 20px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+.Instagram_profile {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 20px;
+}
+
+.New_collection2 {
+	position: relative;
+	top: 40px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+}
+
+.Contact_us2 {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 70px;
+}
+
+.Latest_News2 {
+	position: relative;
+	top: 90px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+}
+
+.Terms_Conditions {
+	position: relative;
+	top: 110px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+}
+
+.Purchase_Theme {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 128px;
+}
+
+.Useful_links {
+	position: relative;
+	width: 165px;
+	height: 260px;
+	left: 800px;
+	bottom: 850px;
+	display: flex;
+}
+
+.USEFUL_LINKS {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+.Instagram_profile2 {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 22px;
+}
+
+.New_Collection3 {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 40px;
+}
+
+.Contact_us3 {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 70px;
+}
+
+.Latest_News3 {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 90px;
+}
+
+.Terms_Conditions2 {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 110px;
+}
+
+.Purchase_Theme2 {
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+	position: relative;
+	top: 128px;
+}
+
+.ABOUT_THE_STORE {
+	position: relative;
+	left: 1000px;
+	display: flex;
+	flex-direction: column;
+	bottom: 1000px;
+}
+
+.About_store2 {
+	position: relative;
+	bottom: 115px;
+
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+
+.About_text {
+	position: relative;
+	bottom: 100px;
+	width: 161px;
+	height: 54px;
+	font-family: 'Circular Std';
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	opacity: 0.6;
+}
